@@ -1,0 +1,14 @@
+{
+  "login": [
+    {
+      "userKey": "1",
+      "name": "user",
+      "password": "user"
+    },
+    {
+      "userKey": "2",
+      "name": "admin",
+      "password": "admin"
+    }
+  ]
+}
